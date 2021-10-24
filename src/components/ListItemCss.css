@@ -1,0 +1,8 @@
+li {
+    list-style-type: none; 
+}
+
+li:hover {
+    font-size: 30px;
+    cursor: pointer;
+}
